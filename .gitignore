@@ -1,1 +1,3 @@
 # .gitignore
+__*__
+tmp.py

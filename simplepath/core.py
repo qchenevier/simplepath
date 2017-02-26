@@ -1,7 +1,9 @@
-# simplepath.py
+# core.py
 from pathlib import Path
 import logging
 import re
+
+__all__ = ['SimplePath']
 
 HERE = Path.cwd()
 PARENT = Path.cwd().parent
