@@ -13,7 +13,7 @@ setup(
     long_description=open('README.md').read(),
     # install_requires= ["gunicorn", "docutils >= 0.3", "lxml==0.5a7"],
     include_package_data=True,
-    url='http://github.com/quent1chenevier/simplepath',
+    url='http://github.com/qchenevier/simplepath',
 
     classifiers=[
         "Programming Language :: Python",

@@ -1,3 +1,6 @@
 # .gitignore
 __*__
 tmp.py
+dist
+build
+*.egg-info
